@@ -45,10 +45,14 @@ packages:
   - luci-app-aria2
   - luci-app-zerotier
   - luci-app-turboacc
-  - luci-app-xlnetacc
   - luci-app-appfilter
   - luci-app-cpufreq
+  - luci-app-samba4
   - luci-app-ttyd
-  - luci-app-serverchan
+  - luci-app-unblockneteasemusic
+  - luci-app-ssr-plus
+  - luci-app-aliddns
+  - luci-app-ddns
+  - luci-app-filetransfer
+  - luci-app-ddnsto
   - luci-app-transmission
-  - luci-app-dailybonus
